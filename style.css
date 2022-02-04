@@ -1,0 +1,52 @@
+* {
+	box-sizing: border-box;
+}
+
+#wrapper {
+	width: 300px;
+	height: 460px;
+	margin: 20px auto;
+	border: 1px solid #e8e8e8;
+	text-align: center;
+	padding: 50px;
+	font-family: 'Museo Sans Cyrl';
+
+}
+
+h1	{
+	font-size: 16px;
+	line-height: 20px;
+	font-weight: 300;
+	color: #212121;
+}
+
+p {
+	font-size: 14px;
+	line-height: 1.2;
+	font-weight: 300;
+	color: #454545;
+}
+
+.price	{
+	margin: 30px;
+	font-size: 18px;
+	line-height: 20px;
+	color: #5ba2a9;
+}
+
+.number	{
+	font-size: 48px;
+	font-weight: 500;
+}
+
+.btn   {
+	font-family: 'Museo Sans Cyrl';
+	font-size: 16px;
+	line-height: 20px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #5a5a5a;
+	margin-top: 50px;
+	width: 200px;
+	height: 54px;
+}
